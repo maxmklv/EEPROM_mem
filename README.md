@@ -1,7 +1,7 @@
-# EEPROM_mem
+# EEPROM Memory Programming
 
 ## Overview
-The purpose of this project was to explore the memories available on the Tiva board.  
+The purpose of this project was to analyze the memories available on the Tiva TM4C123G LaunchPad development board.  
 These memories consist of **Flash**, **SRAM**, and **EEPROM**.  
 
 ---
